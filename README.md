@@ -1,5 +1,5 @@
 # asymmetric-number-systems_entropy-encoding-and-decoding-algorithm
-Asymmetric Number Systems (ANS): Entropy Encoding and Decoding Algorithm in GO
+**Asymmetric Number Systems (ANS): Entropy Encoding and Decoding Algorithm in GO**
 
 This project implements an entropy encoding and decoding algorithm using Asymmetric Number Systems (ANS) in GO. 
 ANS is a data compression technique that is used in various fields such as image, audio and video compression.
